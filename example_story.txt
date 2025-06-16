@@ -1,0 +1,4 @@
+Prompt: A wizard enters a dark cave.
+
+Story 1:
+The wizard...
